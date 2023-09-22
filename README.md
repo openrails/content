@@ -20,6 +20,8 @@ Content in this collection must fit into one of these categories:
 - Train cars - *one or more related locomotives and/or wagons*
 - Train sets - *one or more related consists*
 
+Each category is stored as a separate JSON document: `routes.json`, `train-cars.json`, `train-sets.json`.
+
 ## Dependencies
 
 Content in this collection **must not** require any separate or additional content to work, including the original Microsoft Train Simulator content. However, it is completely fine for included content to link to other content which **does** require separate or additional content to work.
@@ -30,14 +32,18 @@ We understand that this limitation will exclude some popular content. However, w
 
 ## Metadata
 
-Content in this collection must have the following metadata:
+Content in this collection must have the following metadata in the JSON file, except for the fields explicitly marked as optional:
 
 | Data | Type | Explanation |
 |---|---|---|
-| Category | Enum | Route, Train Car, Train Set |
-| Compensation | Enum | Commercial, Donation, Free |
-| Name | Text | Single-line |
-| Description | Text | Multi-line, basic Markdown (bold/italic, lists) |
-| Author | Text | Single-line |
-| Image | ? | A small image or logo that identifies the content. Recommended width = 600 px |
-| URL | URL | This is where interested people will be directed, so it should feature a prominent download or purchase option |
+| `@type` | Text | `https://schema.org/SoftwareApplication` |
+| `compensation` | Enum | `commercial`, `donation`, `free` |
+| `name` | Text | Single-line |
+| `description` | Text | Multi-line, basic Markdown (bold/italic, lists) |
+| `author` | Object |
+| `author.@type` | Enum | `https://schema.org/Person`, `https://schema.org/Organization` |
+| `author.name` | Text | Single-line |
+| `author.url` | URL | *(optional)* Homepage for the author, featuring any other content they have created, including content not eligible for this collection |
+| `image` | URL | A small image or logo that identifies the content. Recommended width = 600 px |
+| `screenshot` | URL | *(optional)* A webpage showcasing the content with screenshots |
+| `url` | URL | This is where interested people will be directed, so it should feature a prominent download or purchase option |
