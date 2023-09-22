@@ -10,6 +10,7 @@
             "url": "http://coalstonewcastle.com.au"
         },
         "image": "http://www.burrinjuck.coalstonewcastle.com.au/screenshots/images/001-image.jpg",
+        "screenshot": "http://www.burrinjuck.coalstonewcastle.com.au/screenshots/",
         "url": "http://www.burrinjuck.coalstonewcastle.com.au/"
     },
     {
@@ -36,6 +37,7 @@
             "url": "http://coalstonewcastle.com.au"
         },
         "image": "http://www.craven.coalstonewcastle.com.au/screenshots/images/002-image.jpg",
+        "screenshot": "http://www.craven.coalstonewcastle.com.au/screenshots/",
         "url": "http://www.craven.coalstonewcastle.com.au/"
     },
     {
@@ -61,6 +63,7 @@
             "url": "http://coalstonewcastle.com.au"
         },
         "image": "http://www.zigzag.coalstonewcastle.com.au/screenshots/images/001-image.jpg",
+        "screenshot": "http://www.zigzag.coalstonewcastle.com.au/screenshots/",
         "url": "http://www.zigzag.coalstonewcastle.com.au/"
     },
     {
@@ -73,6 +76,7 @@
             "name": ""
         },
         "image": "http://www.manning-river.coalstonewcastle.com.au/screenshots/images/002-image.jpg",
+        "screenshot": "http://www.manning-river.coalstonewcastle.com.au/screenshots/",
         "url": "http://www.manning-river.coalstonewcastle.com.au/"
     },
     {
@@ -111,6 +115,7 @@
             "url": "http://coalstonewcastle.com.au"
         },
         "image": "http://www.tweed.coalstonewcastle.com.au/screenshots/images/039-image.jpg",
+        "screenshot": "http://www.tweed.coalstonewcastle.com.au/screenshots/",
         "url": "http://www.tweed.coalstonewcastle.com.au/"
     }
 ]
