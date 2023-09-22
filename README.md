@@ -26,7 +26,7 @@ Content in this collection **must not** require any separate or additional conte
 
 For example, if a route includes activities or timetables, all referenced train sets and train cars must also be included in a single download. If that is not possible, affected activities and timetables may be offered as a separate download, linked from the route's webpage, but only the route will be included in this collection.
 
-We understand that this is a tricky limitation for some content. However, we hope that content creators understand that we are currently focusing on ease of use, and we have plans to address this in the future.
+We understand that this limitation will exclude some popular content. However, we hope that content creators understand that we are currently focusing on ease of installation, and we have plans to address this limitation shortly.
 
 ## Metadata
 
