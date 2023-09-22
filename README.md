@@ -39,5 +39,5 @@ Content in this collection must have the following metadata:
 | Name | Text | Single-line |
 | Description | Text | Multi-line, basic Markdown (bold/italic, lists) |
 | Author | Text | Single-line |
-| Image | ? | **What are we doing here???** |
+| Image | ? | A small image or logo that identifies the content. Recommended width = 600 px |
 | URL | URL | This is where interested people will be directed, so it should feature a prominent download or purchase option |
