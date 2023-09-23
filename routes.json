@@ -6,9 +6,11 @@
         "description": "The Burrinjuck Railway was a 2ft (600mm) railway built to carry building materials to the Burrinjuck Dam (also known as Barren Jack), which was built as part of the Murrumbidgee Irrigation Area. Construction of the dam commenced in 1907 and was completed in 1928.\n\nThe railway ran from Goondah, on the Main Southern Lines of the NSWGR, to the dam site and was approximately 26 miles (42km) long. The line had gradients of 1 in 30, and the full journey took approximately 2.5 hours to complete. It was constructed in 1907 and ran through until the completion of the dam in 1928.\n\nFour 0-4-0 Krauss tank locomotives were used on the line, and the line was designed to transport approximately 100tonnes of material per day.",
         "author": {
             "@type": "https://schema.org/Person",
-            "name": "Peter Newell"
+            "name": "Peter Newell",
+            "url": "http://coalstonewcastle.com.au"
         },
         "image": "http://www.burrinjuck.coalstonewcastle.com.au/screenshots/images/001-image.jpg",
+        "screenshot": "http://www.burrinjuck.coalstonewcastle.com.au/screenshots/",
         "url": "http://www.burrinjuck.coalstonewcastle.com.au/"
     },
     {
@@ -18,7 +20,8 @@
         "description": "This route is a \"work in progress\" by Martin Phillips and set in 1960's UK. It runs through the Chiltern Hills to London. The route includes the two main lines in the area (ex-GWR/GCR and ex-GCR/Metropolitan) and the lines between but also much of the London Transport underground system where it parallels or shares lines with the two main lines. (Size about 11GB)",
         "author": {
             "@type": "https://schema.org/Person",
-            "name": "Martin Phillips"
+            "name": "Martin Phillips",
+            "url": "https://github.com/DocMartin7644"
         },
         "image": "https://raw.githubusercontent.com/DocMartin7644/Chiltern-Route-v2/main/Screenshot.jpg",
         "url": "https://github.com/DocMartin7644/Chiltern-Route-v2"
@@ -30,9 +33,11 @@
         "description": "",
         "author": {
             "@type": "https://schema.org/Person",
-            "name": "Peter Newell"
+            "name": "Peter Newell",
+            "url": "http://coalstonewcastle.com.au"
         },
         "image": "http://www.craven.coalstonewcastle.com.au/screenshots/images/002-image.jpg",
+        "screenshot": "http://www.craven.coalstonewcastle.com.au/screenshots/",
         "url": "http://www.craven.coalstonewcastle.com.au/"
     },
     {
@@ -41,7 +46,7 @@
         "name": "Demo Model 1",
         "description": "You can try out Open Rails by downloading this model to drive the route from Edinburgh towards Glasgow.\n\nModels contain lots of detail and this model, which is cut down from a full-size commercial route, compresses to 250MB. Installation instructions are included.\n\nThe model, generously donated by Making Tracks Ltd, reproduces the route between the Scottish capitals during the \"blue\" period of British Rail. Your service is a morning express from Edinburgh Waverley as far as the town of Linlithgow, about 20 minutes running.",
         "author": {
-            "@type": "https://schema.org/Person",
+            "@type": "https://schema.org/Organization",
             "name": "Making Tracks Ltd"
         },
         "image": "https://www.openrails.org/assets/waverley.jpg",
@@ -54,9 +59,11 @@
         "description": "This route is based upon the Great Zig Zag railway between Mt Victoria and Bowenfels.\n\nOn the 18 Oct 1869 the first official train pulled into Bowenfels Station, west of Lithgow, on the Great Western line from Sydney. The Blue Mountains had been successfully crossed and with further extensions the railway would open up land to the west of New South Wales.\n\nThe Blue Mountains represented a significant geographical boundary, as they rose to a height of approximately 3500' (1066m). The NSW Government was pushing strongly for a cheap and speedy way to extend the new railways over the Blue Mountains. The NSWGR explored a number of options to get up the mountains and down on the other side.\n\nIn the end two Zig Zags were built, one to climb the eastern side, at Lapstone, and one to descend the western side at Lithgow. This second one was know as the \"Great Zig Zag\", and was hailed as an international engineering marvel in its day. The Great Zig Zag operated between 1869 and 1910, when it was bypassed by a 10 tunnel deviation.\n\nThe Zig Zag lowered the line by approximately 500' (170m) in 5 miles (8 kms) at a ruling gradient of 1 in 42. This was marginally easier then the gradient ascending the Blue Mountains on the eastern side, which was 1 in 33.\n\nWhen first opened, trains were required to reverse up or down the \"middle Road\", however this proved to be a dangerous activity, so run around facilities were provided to eliminate the need to do this. Though this added extra train occupancy time to the route and resulted in it becoming a major bottle-neck.\n\nTo attempt to alleviate the congestion a number of changes were made toi the Western line between 1880 and 1910, and these included:\n\n- duplication of the lines\n- numerous deviations and re-alignments\n- elimination of the Lapstone and Great Zig Zags.\n\nThis route represents the Main West in the period between 1897, when the Dargans Creek Deviation was built to eliminate some 1 in 33 track between Bell and Clarence, and just prior to the opening of the 10 tunnel deviation.",
         "author": {
             "@type": "https://schema.org/Person",
-            "name": "Peter Newell"
+            "name": "Peter Newell",
+            "url": "http://coalstonewcastle.com.au"
         },
         "image": "http://www.zigzag.coalstonewcastle.com.au/screenshots/images/001-image.jpg",
+        "screenshot": "http://www.zigzag.coalstonewcastle.com.au/screenshots/",
         "url": "http://www.zigzag.coalstonewcastle.com.au/"
     },
     {
@@ -69,6 +76,7 @@
             "name": ""
         },
         "image": "http://www.manning-river.coalstonewcastle.com.au/screenshots/images/002-image.jpg",
+        "screenshot": "http://www.manning-river.coalstonewcastle.com.au/screenshots/",
         "url": "http://www.manning-river.coalstonewcastle.com.au/"
     },
     {
@@ -90,7 +98,8 @@
         "description": "This route is a \"work in progress\" by Rick Loader and set in 1950's UK. It runs from the coastal towns of Weymouth, Bournemouth, Southampton and Portsmouth northwards to Bath and Basingstoke (map). It is notable for its detailed timetable with distinctive operating manoeuvres. (Size about 10GB)",
         "author": {
             "@type": "https://schema.org/Person",
-            "name": "Rick Loader"
+            "name": "Rick Loader",
+            "url": "https://github.com/rickloader"
         },
         "image": "https://raw.githubusercontent.com/rickloader/NewForestRouteV3/main/NfGit.jpg",
         "url": "https://github.com/rickloader/NewForestRouteV3"
@@ -102,9 +111,11 @@
         "description": "",
         "author": {
             "@type": "https://schema.org/Person",
-            "name": "Peter Newell"
+            "name": "Peter Newell",
+            "url": "http://coalstonewcastle.com.au"
         },
         "image": "http://www.tweed.coalstonewcastle.com.au/screenshots/images/039-image.jpg",
+        "screenshot": "http://www.tweed.coalstonewcastle.com.au/screenshots/",
         "url": "http://www.tweed.coalstonewcastle.com.au/"
     }
 ]
