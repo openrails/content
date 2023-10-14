@@ -15,6 +15,19 @@
     },
     {
         "@type": "https://schema.org/SoftwareApplication",
+        "compensation": "commercial",
+        "name": "Canadian National - Ruel Subdivision",
+        "description": "Set in the early 1990's, in the last years as a government-owned corporation, the CN Ruel Subdivision route recreates the freight operations of the Canadian National Railway, through Northern Ontario. At that time, CN was phasing out the use of cabooses on main line trains, however, some were still being used on long distance manifest trains.  You'll travel through winding curves, around countless lakes and rivers as you make your way from the division point of Capreol Ontario, through the Canadian Shield, to the small village of Foleyet. While often overlooked, the Ruel Subdivision has played a critical role in success of CN's transcontinental network.   The CN Ruel Subdivision…CN's Gateway to Western Canada.",
+        "author": {
+            "@type": "https://schema.org/Organization",
+            "name": "TrainSimulations.net",
+            "url": "https://www.trainsimulations.net"
+        },
+        "image": "https://raw.githubusercontent.com/openrails/content/main/images/TrainSimulations.net/CN_RUEL.jpg",
+        "url": "https://www.trainsimulations.net/ruel/"
+    },
+    {
+        "@type": "https://schema.org/SoftwareApplication",
         "compensation": "free",
         "name": "Chiltern",
         "description": "This route is a \"work in progress\" by Martin Phillips and set in 1960's UK. It runs through the Chiltern Hills to London. The route includes the two main lines in the area (ex-GWR/GCR and ex-GCR/Metropolitan) and the lines between but also much of the London Transport underground system where it parallels or shares lines with the two main lines. (Size about 11GB)",
@@ -93,6 +106,19 @@
     },
     {
         "@type": "https://schema.org/SoftwareApplication",
+        "compensation": "commercial",
+        "name": "Montana Rail Link - Mullan Pass",
+        "description": "Originally built by the Northern Pacific in the 1880's, Mullan Pass is one of the most dramatic Rocky Mountain crossings in the United States, with a ruling westbound grade of 2.2%.  The line came under control of the Burlington Northern in the early 1970's, and was leased to Montana Rail Link (MRL) in the late 1980's.  While MRL maintains the right of way today, the line is owned by the BNSF railway, and is used extensively to move BNSF tonnage trains to the west coast.  BNSF traffic is primarily Powder River coal and grain from the Midwest.  BNSF also moves manifest, intermodal, and Boeing aircraft part trains. The remaining traffic is MRL-specific manifest trains. This is a modern interpretation of this piece of railroad, complete with high horsepower AC traction locomotives.  For those with a passion for nostalgia, MRL still uses cabooses on some local freights.",
+        "author": {
+            "@type": "https://schema.org/Organization",
+            "name": "TrainSimulations.net",
+            "url": "https://www.trainsimulations.net"
+        },
+        "image": "https://raw.githubusercontent.com/openrails/content/main/images/TrainSimulations.net/MULLAN_PASS.jpg",
+        "url": "https://www.trainsimulations.net/mullanpass/"
+    },
+    {
+        "@type": "https://schema.org/SoftwareApplication",
         "compensation": "free",
         "name": "New Forest",
         "description": "This route is a \"work in progress\" by Rick Loader and set in 1950's UK. It runs from the coastal towns of Weymouth, Bournemouth, Southampton and Portsmouth northwards to Bath and Basingstoke (map). It is notable for its detailed timetable with distinctive operating manoeuvres. (Size about 10GB)",
@@ -103,6 +129,19 @@
         },
         "image": "https://raw.githubusercontent.com/rickloader/NewForestRouteV3/main/NfGit.jpg",
         "url": "https://github.com/rickloader/NewForestRouteV3"
+    },
+    {
+        "@type": "https://schema.org/SoftwareApplication",
+        "compensation": "commercial",
+        "name": "Southern Pacific - Shasta Route",
+        "description": "Southern Pacific's picturesque Shasta Route was the main artery of SP traffic north of Roseville California to the Pacific Northwest.  For decades, Mount Shasta created the perfect marketing piece for SP's passenger services, and even today, countless photos of Amtrak's Coast Starlight include the imposing mountain in the background.  TrainSimulations Shasta Route is a mid-1990's representation of SP's final years in the Pacific Northwest before their merger with Union Pacific.  This single track mainline hosted countless manifest trains carrying everything from California produce to forest products from the Pacific Northwest, as well as numerous intermodal trains.  The steep climb north from Dunsmuir, as well as tight curves makes for challenging mainline operations.  A large amount of SP power and rolling stock are included, and for the passenger train enthusiasts, a mid-90s Amtrak Coast Starlight consist is also included.",
+        "author": {
+            "@type": "https://schema.org/Organization",
+            "name": "TrainSimulations.net",
+            "url": "https://www.trainsimulations.net"
+        },
+        "image": "https://raw.githubusercontent.com/openrails/content/main/images/TrainSimulations.net/SP_SHASTA.jpg",
+        "url": "https://www.trainsimulations.net/sp-shasta/"
     },
     {
         "@type": "https://schema.org/SoftwareApplication",
