@@ -214,9 +214,11 @@ input::placeholder {
 .item img {
 	width: 12em;
 	object-fit: contain;
-	border-radius: 0.5em;
+	border-radius: 0.25em;
 	float: left;
 	margin-right: 1em;
+	outline: 1px solid hsla(0, 0%, 100%, 0.5);
+	outline-offset: -0.2em;
 }
 
 .item h3 {
