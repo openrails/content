@@ -12,6 +12,7 @@
             "image",
             "url"
         ],
+        "additionalProperties": false,
         "properties": {
             "@type": {
                 "type": "string",
@@ -39,6 +40,7 @@
                     "@type",
                     "name"
                 ],
+                "additionalProperties": false,
                 "properties": {
                     "@type": {
                         "type": "string",
@@ -67,6 +69,14 @@
             "url": {
                 "type": "string",
                 "pattern": "^https?://"
+            },
+            "downloadSize": {
+                "type": "integer",
+                "minimum": 0
+            },
+            "installSize": {
+                "type": "integer",
+                "minimum": 0
             }
         }
     }

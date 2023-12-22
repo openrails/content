@@ -47,3 +47,5 @@ Content in this collection must have the following metadata in the JSON file, ex
 | `image` | URL | A small image or logo that identifies the content. Recommended width = 600 px |
 | `screenshot` | URL | *(optional)* A webpage showcasing the content with screenshots |
 | `url` | URL | This is where interested people will be directed, so it should feature a prominent download or purchase option |
+| `downloadSize` | Integer | *(optional)* Approximate bytes of disk space needed to download the content |
+| `installSize` | Integer | *(optional)* Approximate bytes of disk space needed to install the content |
