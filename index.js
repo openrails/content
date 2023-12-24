@@ -41,6 +41,19 @@ function fuzzySearch(input, data, keys) {
 	return result;
 }
 
+// Modified function from https://stackoverflow.com/a/18650828
+function formatBytes(bytes, decimals = 2) {
+	if (!+bytes) return '0 Bytes';
+
+	const k = 1000;
+	const dm = decimals < 0 ? 0 : decimals;
+	const sizes = ['Bytes', 'KB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB'];
+
+	const i = Math.floor(Math.log(bytes) / Math.log(k));
+
+	return `${parseFloat((bytes / Math.pow(k, i)).toFixed(dm))} ${sizes[i]}`;
+}
+
 const selectionCards = document.getElementsByClassName('selection');
 for (const card of selectionCards) {
 	card.addEventListener('click', (e) => selectCard(e));
@@ -117,6 +130,9 @@ function generateList() {
         <p>
             ${route.description}
         </p>
+        ${route.downloadSize || route.installSize ? '<div style="margin-top: 0.5em;"></div>' : ''}
+        ${route.downloadSize ? `<span class="badge">Download size: ${formatBytes(route.downloadSize)}</span>` : ''}
+        ${route.installSize ? `<span class="badge">Install size: ${formatBytes(route.installSize)}</span>` : ''}
         `;
 
 		element.classList.add('item');

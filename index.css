@@ -61,6 +61,16 @@ button,
 	text-decoration: none;
 }
 
+button:hover,
+.btn:hover {
+    opacity: 0.7;
+}
+
+button:active,
+.btn:active {
+    opacity: 0.9;
+}
+
 button[data-secondary] {
 	color: var(--accent-ui);
 	background-color: var(--accent);
@@ -221,6 +231,10 @@ input::placeholder {
 	outline-offset: -0.2em;
 }
 
+.item p {
+    margin-bottom: 0;
+}
+
 .item h3 {
 	margin: 0 0;
 }
@@ -240,4 +254,17 @@ input::placeholder {
 .item .item-header .author-url {
 	color: inherit;
 	text-underline-offset: 0.2em;
+}
+
+.badge,
+code {
+    border-radius: .3em;
+    font-family: monospace;
+    padding: .1em .2em;
+    background-color: var(--tertiary);
+}
+
+.item .badge {
+    background-color: var(--light);
+    border: 1px solid var(--secondary);
 }
