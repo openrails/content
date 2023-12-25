@@ -144,3 +144,13 @@ function generateList() {
 }
 
 generateList();
+
+// The content browser embedded into the official OR site (https://www.openrails.org/)
+// is loaded in an `iframe` with the URL parameter `embedded` set to `true`. This allows us
+// to apply specific styles to align the content browser with the official website's theme. 
+const params = new URLSearchParams(document.location.search);
+const embedded = params.get('embedded');
+
+if (embedded === 'true') {
+	document.documentElement.classList.add('embedded');
+}
