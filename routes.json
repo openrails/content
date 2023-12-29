@@ -161,5 +161,19 @@
         "image": "http://www.tweed.coalstonewcastle.com.au/screenshots/images/039-image.jpg",
         "screenshot": "http://www.tweed.coalstonewcastle.com.au/screenshots/",
         "url": "http://www.tweed.coalstonewcastle.com.au/"
-    }
+    },
+    {
+        "@type": "https://schema.org/SoftwareApplication",
+        "compensation": "free",
+        "name": "Portugal 79",
+        "description": "Portugal: This provides 1775 km of broad gauge track, with full detail on 91 km between Entroncamento and Alfarelos.",
+        "author": {
+            "@type": "https://schema.org/Person",
+            "name": "Aldarion",
+            "url": "http://trainsim.pt/"
+        },
+        "image": "https://raw.githubusercontent.com/cpvirtual/OR_CPV/main/pt79.jpg",
+        "url": "https://github.com/cpvirtual/OR_CPV.git",
+        "installSize": 11195207680
+    }    
 ]
