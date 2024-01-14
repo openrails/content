@@ -81,7 +81,14 @@
             "start": {
                 "type": "object",
                 "required": [
-                    "locomotive"
+                    "route",
+                    "locomotive",
+                    "consist",
+                    "startingat",
+                    "headingto",
+                    "time",
+                    "season",
+                    "weather"
                 ],
                 "additionalProperties": false,
                 "properties": {
