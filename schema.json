@@ -77,6 +77,46 @@
             "installSize": {
                 "type": "integer",
                 "minimum": 0
+            },
+            "start": {
+                "type": "object",
+                "required": [
+                    "route",
+                    "locomotive",
+                    "consist",
+                    "startingat",
+                    "headingto",
+                    "time",
+                    "season",
+                    "weather"
+                ],
+                "additionalProperties": false,
+                "properties": {
+                    "route": {
+                        "type": "string"
+                    },                     
+                    "locomotive": {
+                        "type": "string"
+                    },                      
+                    "consist": {
+                        "type": "string"
+                    },                      
+                    "startingat": {
+                        "type": "string"
+                    },                      
+                    "headingto": {
+                        "type": "string"
+                    },                      
+                    "time": {
+                        "type": "string"
+                    },                      
+                    "season": {
+                        "type": "string"
+                    },
+                    "weather": {
+                        "type": "string"
+                    }                     
+                }
             }
         }
     }
