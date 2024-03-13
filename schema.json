@@ -82,6 +82,7 @@
                 "type": "object",
                 "required": [
                     "route",
+                    "activity",
                     "locomotive",
                     "consist",
                     "startingat",
@@ -94,7 +95,10 @@
                 "properties": {
                     "route": {
                         "type": "string"
-                    },                     
+                    },
+                    "actvity": {
+                        "type": "string"
+                    },                    
                     "locomotive": {
                         "type": "string"
                     },                      

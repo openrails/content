@@ -38,7 +38,11 @@
         },
         "image": "https://raw.githubusercontent.com/DocMartin7644/Chiltern-Route-v2/main/Screenshot.jpg",
         "url": "https://github.com/DocMartin7644/Chiltern-Route-v2.git",
-        "installSize": 13227601920
+        "installSize": 13227601920,
+        "start": {
+            "route": "Chiltern",
+            "activity": "RS_Let's go to Birmingham"
+        }
     },
     {
         "@type": "https://schema.org/SoftwareApplication",
@@ -69,6 +73,7 @@
         "installSize": 311382016,
         "start": {
             "route": "Scottish Capital Express",
+            "activity": "+ Explore in Activity Mode +",
             "locomotive": "MT Class 27 27102 BR Blue",
             "consist": "MT Class 27 102 & 6 mk2 PP",
             "startingat": "Edinburgh",
