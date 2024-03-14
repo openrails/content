@@ -136,19 +136,30 @@
         "image": "https://raw.githubusercontent.com/openrails/content/main/images/TrainSimulations.net/MULLAN_PASS.jpg",
         "url": "https://www.trainsimulations.net/mullanpass/"
     },
-    {
-        "@type": "https://schema.org/SoftwareApplication",
-        "compensation": "free",
-        "name": "New Forest",
-        "description": "This route is a \"work in progress\" by Rick Loader and set in 1950's UK. It runs from the coastal towns of Weymouth, Bournemouth, Southampton and Portsmouth northwards to Bath and Basingstoke (map). It is notable for its detailed timetable with distinctive operating manoeuvres. (Size about 10GB)",
-        "author": {
-            "@type": "https://schema.org/Person",
-            "name": "Rick Loader",
-            "url": "https://github.com/rickloader"
-        },
-        "image": "https://raw.githubusercontent.com/rickloader/NewForestRouteV3/main/NfGit.jpg",
-        "url": "https://github.com/rickloader/NewForestRouteV3.git",
-        "installSize": 23941709824
+  {
+    "@type": "https://schema.org/SoftwareApplication",
+    "compensation": "free",
+    "name": "New Forest",
+    "description": "This route is a \"work in progress\" by Rick Loader and set in 1950's UK. It runs from the coastal towns of Weymouth, Bournemouth, Southampton and Portsmouth northwards to Bath and Basingstoke (map). It is notable for its detailed timetable with distinctive operating manoeuvres. (Size about 10GB)",
+    "author": {
+      "@type": "https://schema.org/Person",
+      "name": "Rick Loader",
+      "url": "https://github.com/rickloader"
+    },
+    "image": "https://raw.githubusercontent.com/rickloader/NewForestRouteV3/main/NfGit.jpg",
+    "url": "https://github.com/rickloader/NewForestRouteV3.git",
+    "installSize": 23941709824,
+    "start": {
+      "route": "Watersnake",
+      "activity": "+ Explore in Activity Mode +",
+      "locomotive": "DR_BR_WC-R_34046",
+      "consist": "RL_Swanage10RESset297",
+      "startingat": "Bournemouth Central",
+      "headingto": "Waterloo",
+      "time": "9:00",
+      "season": "Autumn",
+      "weather": "Clear"
+      }
     },
     {
         "@type": "https://schema.org/SoftwareApplication",
