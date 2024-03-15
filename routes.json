@@ -121,7 +121,11 @@
         },
         "image": "https://raw.githubusercontent.com/MECoast/MECoast/main/GitHub_assets/Spilsby.jpg",
         "url": "https://github.com/MECoast/MECoast.git",
-        "installSize": 8290103296
+        "installSize": 8290103296,
+        "start": {
+            "route": "MIDEAST COAST 1.6.7.5 (13 MAR 2024)-3 New Class J69 Locos added. Minor errors corrected",
+            "activity": "MC-SunnyHunny"
+        }
     },
     {
         "@type": "https://schema.org/SoftwareApplication",
@@ -200,6 +204,17 @@
         },
         "image": "https://raw.githubusercontent.com/cpvirtual/OR_CPV/main/pt79.jpg",
         "url": "https://github.com/cpvirtual/OR_CPV.git",
-        "installSize": 11195207680
-    }    
+        "installSize": 11195207680,
+        "start": {
+            "route": "Portugal79",
+            "activity": "+ Explore in Activity Mode +",
+            "locomotive": "CP 2605 Alsthom",
+            "consist": "Directo 13 Entroncamento-Pampilhosa HV1979",
+            "startingat": "Entroncamento 9",
+            "headingto": "Campanha 5",
+            "time": "9:50",
+            "season": "Summer",
+            "weather": "Clear"
+        }
+    }  
 ]
