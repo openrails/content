@@ -174,7 +174,7 @@
         "@type": "https://schema.org/SoftwareApplication",
         "compensation": "free",
         "name": "Portugal 79",
-        "description": "The Portugal ’79 route features 1775 km of Portugal’s broad gauge railway network. Full scenery detail is available on the 111 km between Entroncamento and Coimbra. The route includes a broad range of Portuguese rolling stock from different eras.",
+        "description": "Portugal: This provides 1775 km of broad gauge track, with full detail on 91 km between Entroncamento and Alfarelos.",
         "author": {
             "@type": "https://schema.org/Person",
             "name": "Aldarion",
