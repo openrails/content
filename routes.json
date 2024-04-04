@@ -169,7 +169,6 @@
             "weather": "Clear"
         }
     },
- 
     {
         "@type": "https://schema.org/SoftwareApplication",
         "compensation": "free",
