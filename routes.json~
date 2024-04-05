@@ -32,7 +32,7 @@
         "@type": "https://schema.org/SoftwareApplication",
         "compensation": "free",
         "name": "Chiltern",
-        "description": "This route, set c.1960 in UK, includes two main and many branch lines that run through the Chiltern Hills to London as well as parts of the London Transport underground system. Also included, somewhat anachronistically, is the Shepherds Bush to Uxbridge tram route. This route is a work in progress and scenery is still being added. At the moment scenery is complete between Marylebone Station and Banbury.",
+        "description": "This route is a \"work in progress\" by Martin Phillips and set in 1960's UK. It runs through the Chiltern Hills to London. The route includes the two main lines in the area (ex-GWR/GCR and ex-GCR/Metropolitan) and the lines between but also much of the London Transport underground system where it parallels or shares lines with the two main lines. (Size about 11GB)",
         "author": {
             "@type": "https://schema.org/Person",
             "name": "Martin Phillips",
