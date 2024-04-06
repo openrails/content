@@ -107,8 +107,7 @@
         "description": "The Manning River Breakwater railway was built in 1895 to transport rock from a quarry at Crowdy Head to the entrance of the river at Harrington. Powered by a Baldwin Steam Tram motor, approximately 600,000 tons of rock was transported over time from the quarry to Harrington.  Operation of this route was relatively simple as it was fairly flat with a single locomotive, so that signalling was not required.",
         "author": {
             "@type": "https://schema.org/Person",
-            "name": "Peter Newell",
-            "url": "http://coalstonewcastle.com.au"
+            "name": ""
         },
         "image": "http://www.manning-river.coalstonewcastle.com.au/screenshots/images/002-image.jpg",
         "screenshot": "http://www.manning-river.coalstonewcastle.com.au/screenshots/",
