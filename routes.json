@@ -3,7 +3,7 @@
         "@type": "https://schema.org/SoftwareApplication",
         "compensation": "free",
         "name": "Burrinjuck Railway",
-        "description": "The Burrinjuck Railway was a 2ft (600mm) railway built to carry building materials to the Burrinjuck Dam (also known as Barren Jack), which was built as part of the Murrumbidgee Irrigation Area. Construction of the dam commenced in 1907 and was completed in 1928.\n\nThe railway ran from Goondah, on the Main Southern Lines of the NSWGR, to the dam site and was approximately 26 miles (42km) long. The line had gradients of 1 in 30, and the full journey took approximately 2.5 hours to complete. It was constructed in 1907 and ran through until the completion of the dam in 1928.\n\nFour 0-4-0 Krauss tank locomotives were used on the line, and the line was designed to transport approximately 100tonnes of material per day.",
+        "description": "The historic Burrinjuck railway, built in 1907 and decommissioned in 1929, was a narrow gage route between Goondah and Burrinjuck in New South Wales, Australia. The line was used to transport workers, material and supplies during the construction of the Burrinjuck dam. Navigate the four German built 0-4-0 Krauss steam locomotives that transported approximately 100 tonnes of material per day, along this 26 mile / 42 km long route with challenging steep gradients.",
         "author": {
             "@type": "https://schema.org/Person",
             "name": "Peter Newell",
@@ -11,26 +11,28 @@
         },
         "image": "http://www.burrinjuck.coalstonewcastle.com.au/screenshots/images/001-image.jpg",
         "screenshot": "http://www.burrinjuck.coalstonewcastle.com.au/screenshots/",
-        "url": "http://www.burrinjuck.coalstonewcastle.com.au/"
+        "url": "http://www.burrinjuck.coalstonewcastle.com.au/",
+        "downloadSize": 136713223
     },
     {
         "@type": "https://schema.org/SoftwareApplication",
         "compensation": "commercial",
         "name": "Canadian National - Ruel Subdivision",
-        "description": "Set in the early 1990's, in the last years as a government-owned corporation, the CN Ruel Subdivision route recreates the freight operations of the Canadian National Railway, through Northern Ontario. At that time, CN was phasing out the use of cabooses on main line trains, however, some were still being used on long distance manifest trains.  You'll travel through winding curves, around countless lakes and rivers as you make your way from the division point of Capreol Ontario, through the Canadian Shield, to the small village of Foleyet. While often overlooked, the Ruel Subdivision has played a critical role in success of CN's transcontinental network.   The CN Ruel Subdivision…CN's Gateway to Western Canada.",
+        "description": "The Canadian National Railway - Ruel Subdivision is situated in early 1990’s Northern Ontario. In this realistic simulation you will travel around the countless lakes and rivers of the beautiful Canadian Shield, from the division point at Capreol to the small village of Foleyet. This route offers challenging activities, detailed scenery, high quality sound and accurate day and nighttime cabviews of 13 high detail Diesel Locomotive models and over 70 different freight cars.",
         "author": {
             "@type": "https://schema.org/Organization",
             "name": "TrainSimulations.net",
             "url": "https://www.trainsimulations.net"
         },
         "image": "https://raw.githubusercontent.com/openrails/content/main/images/TrainSimulations.net/CN_RUEL.jpg",
-        "url": "https://www.trainsimulations.net/ruel/"
+        "url": "https://www.trainsimulations.net/ruel/",
+        "installSize": 1850000000
     },
     {
         "@type": "https://schema.org/SoftwareApplication",
         "compensation": "free",
         "name": "Chiltern",
-        "description": "This route is a \"work in progress\" by Martin Phillips and set in 1960's UK. It runs through the Chiltern Hills to London. The route includes the two main lines in the area (ex-GWR/GCR and ex-GCR/Metropolitan) and the lines between but also much of the London Transport underground system where it parallels or shares lines with the two main lines. (Size about 11GB)",
+        "description": "This route, set c.1960 in UK, includes two main and many branch lines that run through the Chiltern Hills to London as well as parts of the London Transport underground system. Also included, somewhat anachronistically, is the Shepherds Bush to Uxbridge tram route. This route is a work in progress and scenery is still being added. At the moment scenery is complete between Marylebone Station and Banbury.",
         "author": {
             "@type": "https://schema.org/Person",
             "name": "Martin Phillips",
@@ -48,7 +50,7 @@
         "@type": "https://schema.org/SoftwareApplication",
         "compensation": "free",
         "name": "Craven Timber Railway",
-        "description": "",
+        "description": "The Craven Timber railway is a 5.8 miles / 9.6 km branch of the North Coast line located in New South Wales, Australia. This typical timber 'tramway' was used to transport timber out of The Glen to a sawmill located adjacent to Craven Station (180 miles north of Sydney).  Built to light railway standards with a number of tight 120m curves the line was operated by two saddle tank steam locomotives, PWD32 and 529X. It crossed the Wards River six times as it wound up the picturesque river valley.",
         "author": {
             "@type": "https://schema.org/Person",
             "name": "Peter Newell",
@@ -62,7 +64,7 @@
         "@type": "https://schema.org/SoftwareApplication",
         "compensation": "free",
         "name": "Demo Model 1",
-        "description": "You can try out Open Rails by downloading this model to drive the route from Edinburgh towards Glasgow.\n\nModels contain lots of detail and this model, which is cut down from a full-size commercial route, compresses to 250MB. Installation instructions are included.\n\nThe model, generously donated by Making Tracks Ltd, reproduces the route between the Scottish capitals during the \"blue\" period of British Rail. Your service is a morning express from Edinburgh Waverley as far as the town of Linlithgow, about 20 minutes running.",
+        "description": "Demo Model 1 is a great route to get started with Open Rails. It models the Scottish Capital Express during the 'blue' period of British Rail. Your service is a morning express from Edinburgh Waverley as far as the town of Linlithgow, about 20 minutes running. Generously donated by Making Tracks Ltd, Demo Model 1 was cut down from a full-size commercial route and contains lots of detail. Installation instructions are included. ",
         "author": {
             "@type": "https://schema.org/Organization",
             "name": "Making Tracks Ltd"
@@ -87,7 +89,7 @@
         "@type": "https://schema.org/SoftwareApplication",
         "compensation": "free",
         "name": "Great Zig Zag Railway - New South Wales",
-        "description": "This route is based upon the Great Zig Zag railway between Mt Victoria and Bowenfels.\n\nOn the 18 Oct 1869 the first official train pulled into Bowenfels Station, west of Lithgow, on the Great Western line from Sydney. The Blue Mountains had been successfully crossed and with further extensions the railway would open up land to the west of New South Wales.\n\nThe Blue Mountains represented a significant geographical boundary, as they rose to a height of approximately 3500' (1066m). The NSW Government was pushing strongly for a cheap and speedy way to extend the new railways over the Blue Mountains. The NSWGR explored a number of options to get up the mountains and down on the other side.\n\nIn the end two Zig Zags were built, one to climb the eastern side, at Lapstone, and one to descend the western side at Lithgow. This second one was know as the \"Great Zig Zag\", and was hailed as an international engineering marvel in its day. The Great Zig Zag operated between 1869 and 1910, when it was bypassed by a 10 tunnel deviation.\n\nThe Zig Zag lowered the line by approximately 500' (170m) in 5 miles (8 kms) at a ruling gradient of 1 in 42. This was marginally easier then the gradient ascending the Blue Mountains on the eastern side, which was 1 in 33.\n\nWhen first opened, trains were required to reverse up or down the \"middle Road\", however this proved to be a dangerous activity, so run around facilities were provided to eliminate the need to do this. Though this added extra train occupancy time to the route and resulted in it becoming a major bottle-neck.\n\nTo attempt to alleviate the congestion a number of changes were made toi the Western line between 1880 and 1910, and these included:\n\n- duplication of the lines\n- numerous deviations and re-alignments\n- elimination of the Lapstone and Great Zig Zags.\n\nThis route represents the Main West in the period between 1897, when the Dargans Creek Deviation was built to eliminate some 1 in 33 track between Bell and Clarence, and just prior to the opening of the 10 tunnel deviation.",
+        "description": "The Great Zig Zag railway between Mt Victoria and Bowenfels, west of Lithgow, New South Wales, Australia, was part of the Great Western line that connects Sydney with Western New South Wales. The line, hailed as an international engineering marvel in the late 19th century, was the most cost effective solution to traverse the Blue Mountains, west of Sydney. This route comes with 7 tutorial activities that introduce you progressively to the challenges of managing a Steam-hauled train. ",
         "author": {
             "@type": "https://schema.org/Person",
             "name": "Peter Newell",
@@ -95,20 +97,22 @@
         },
         "image": "http://www.zigzag.coalstonewcastle.com.au/screenshots/images/001-image.jpg",
         "screenshot": "http://www.zigzag.coalstonewcastle.com.au/screenshots/",
-        "url": "http://www.zigzag.coalstonewcastle.com.au/"
+        "url": "http://www.zigzag.coalstonewcastle.com.au/",
+        "downloadSize": 210074550
     },
     {
         "@type": "https://schema.org/SoftwareApplication",
         "compensation": "free",
         "name": "Manning River Breakwall Railway",
-        "description": "The Manning River Breakwater railway was built in 1895 to transport rock from a quarry at Crowdy Head to the enterance of the river at Harrington.\n\nIt had a route length of approximately 5 miles. Operation was reasonably simple as the route was relatively flat and it only had a single locomotive, so signalling was non-existant.\n\nAll together approximately 600,000 tons of rock was transported from the Quarry to Harrington.\n\nA Baldwin Steam Tram motor, surplus to needs on the Sydney Tramway System, was used as motive power on the route.",
+        "description": "The Manning River Breakwater railway was built in 1895 to transport rock from a quarry at Crowdy Head to the entrance of the river at Harrington. Powered by a Baldwin Steam Tram motor, approximately 600,000 tons of rock was transported over time from the quarry to Harrington.  Operation of this route was relatively simple as it was fairly flat with a single locomotive, so that signalling was not required.",
         "author": {
             "@type": "https://schema.org/Person",
             "name": ""
         },
         "image": "http://www.manning-river.coalstonewcastle.com.au/screenshots/images/002-image.jpg",
         "screenshot": "http://www.manning-river.coalstonewcastle.com.au/screenshots/",
-        "url": "http://www.manning-river.coalstonewcastle.com.au/"
+        "url": "http://www.manning-river.coalstonewcastle.com.au/",
+        "downloadSize": 74799426
     },
     {
         "@type": "https://schema.org/SoftwareApplication",
@@ -167,36 +171,9 @@
     },
     {
         "@type": "https://schema.org/SoftwareApplication",
-        "compensation": "commercial",
-        "name": "Southern Pacific - Shasta Route",
-        "description": "Southern Pacific's picturesque Shasta Route was the main artery of SP traffic north of Roseville California to the Pacific Northwest.  For decades, Mount Shasta created the perfect marketing piece for SP's passenger services, and even today, countless photos of Amtrak's Coast Starlight include the imposing mountain in the background.  TrainSimulations Shasta Route is a mid-1990's representation of SP's final years in the Pacific Northwest before their merger with Union Pacific.  This single track mainline hosted countless manifest trains carrying everything from California produce to forest products from the Pacific Northwest, as well as numerous intermodal trains.  The steep climb north from Dunsmuir, as well as tight curves makes for challenging mainline operations.  A large amount of SP power and rolling stock are included, and for the passenger train enthusiasts, a mid-90s Amtrak Coast Starlight consist is also included.",
-        "author": {
-            "@type": "https://schema.org/Organization",
-            "name": "TrainSimulations.net",
-            "url": "https://www.trainsimulations.net"
-        },
-        "image": "https://raw.githubusercontent.com/openrails/content/main/images/TrainSimulations.net/SP_SHASTA.jpg",
-        "url": "https://www.trainsimulations.net/sp-shasta/"
-    },
-    {
-        "@type": "https://schema.org/SoftwareApplication",
-        "compensation": "free",
-        "name": "Tweed Railway",
-        "description": "",
-        "author": {
-            "@type": "https://schema.org/Person",
-            "name": "Peter Newell",
-            "url": "http://coalstonewcastle.com.au"
-        },
-        "image": "http://www.tweed.coalstonewcastle.com.au/screenshots/images/039-image.jpg",
-        "screenshot": "http://www.tweed.coalstonewcastle.com.au/screenshots/",
-        "url": "http://www.tweed.coalstonewcastle.com.au/"
-    },
-    {
-        "@type": "https://schema.org/SoftwareApplication",
         "compensation": "free",
         "name": "Portugal 79",
-        "description": "Portugal: This provides 1775 km of broad gauge track, with full detail on 91 km between Entroncamento and Alfarelos.",
+        "description": "The Portugal ’79 route features 1775 km of Portugal’s broad gauge railway network. Full scenery detail is available on the 111 km between Entroncamento and Coimbra. The route includes a broad range of Portuguese rolling stock from different eras.",
         "author": {
             "@type": "https://schema.org/Person",
             "name": "Aldarion",
@@ -216,5 +193,33 @@
             "season": "Summer",
             "weather": "Clear"
         }
-    }
+    },
+    {
+        "@type": "https://schema.org/SoftwareApplication",
+        "compensation": "commercial",
+        "name": "Southern Pacific - Shasta Route",
+        "description": "Southern Pacific's picturesque Shasta Route was the main artery of SP traffic north of Roseville California to the Pacific Northwest.  For decades, Mount Shasta created the perfect marketing piece for SP's passenger services, and even today, countless photos of Amtrak's Coast Starlight include the imposing mountain in the background.  TrainSimulations Shasta Route is a mid-1990's representation of SP's final years in the Pacific Northwest before their merger with Union Pacific.  This single track mainline hosted countless manifest trains carrying everything from California produce to forest products from the Pacific Northwest, as well as numerous intermodal trains.  The steep climb north from Dunsmuir, as well as tight curves makes for challenging mainline operations.  A large amount of SP power and rolling stock are included, and for the passenger train enthusiasts, a mid-90s Amtrak Coast Starlight consist is also included.",
+        "author": {
+            "@type": "https://schema.org/Organization",
+            "name": "TrainSimulations.net",
+            "url": "https://www.trainsimulations.net"
+        },
+        "image": "https://raw.githubusercontent.com/openrails/content/main/images/TrainSimulations.net/SP_SHASTA.jpg",
+        "url": "https://www.trainsimulations.net/sp-shasta/"
+    },
+    {
+        "@type": "https://schema.org/SoftwareApplication",
+        "compensation": "free",
+        "name": "Tweed Railway",
+        "description": "The Tweed railway, built around 1900, covers the Murwillumbah Branch from Casino to Murwillumbah and the short lived branch to Ballina in the timber rich Northern Rivers area of New South Wales, Australia.  The railway crossed many rivers and waterways in its journey between Casino and Murwillumbah, so it was necessary to overcome a number of geographical obstacles. ",
+        "author": {
+            "@type": "https://schema.org/Person",
+            "name": "Peter Newell",
+            "url": "http://coalstonewcastle.com.au"
+        },
+        "image": "http://www.tweed.coalstonewcastle.com.au/screenshots/images/039-image.jpg",
+        "screenshot": "http://www.tweed.coalstonewcastle.com.au/screenshots/",
+        "url": "http://www.tweed.coalstonewcastle.com.au/",
+         "downloadSize": 102575444
+    }   
 ]
