@@ -2,8 +2,24 @@
     {
         "@type": "https://schema.org/SoftwareApplication",
         "compensation": "free",
+        "name": "BNSF Starter Route",
+        "description": "Get started with Open Rails by downloading this free starter route. This route comes with trainsets and activities based on the BNSF Scenic Subdivision in the Pacific Northwest Region of the United States.",
+        "author": {
+            "@type": "https://schema.org/Organization",
+            "name": "TrainSimulations.net",
+            "url": "https://www.trainsimulations.net"
+        },
+        "image": "https://raw.githubusercontent.com/openrails/content/main/images/TrainSimulations.net/BNSF_starter_route.jpg",
+        "screenshot": "https://www.trainsimulations.net/starter",
+        "url": "https://files.trainsimulations.net/TS_STARTER_ROUTE.zip",
+        "downloadSize": 428811336,
+        "installSize": 521159055
+    },
+    {
+        "@type": "https://schema.org/SoftwareApplication",
+        "compensation": "free",
         "name": "Burrinjuck Railway",
-        "description": "The historic Burrinjuck railway, built in 1907 and decommissioned in 1929, was a narrow gage route between Goondah and Burrinjuck in New South Wales, Australia. The line was used to transport workers, material and supplies during the construction of the Burrinjuck dam. Navigate the four German built 0-4-0 Krauss steam locomotives that transported approximately 100 tonnes of material per day, along this 26 mile / 42 km long route with challenging steep gradients.",
+        "description": "The historic Burrinjuck railway, built in 1907 and decommissioned in 1929, was a narrow gauge route between Goondah and Burrinjuck in New South Wales, Australia. The line was used to transport workers, material and supplies during the construction of the Burrinjuck dam. Navigate the four German built 0-4-0 Krauss steam locomotives that transported approximately 100 tonnes of material per day, along this 26 mile / 42 km long route with challenging steep gradients.",
         "author": {
             "@type": "https://schema.org/Person",
             "name": "Peter Newell",
