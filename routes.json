@@ -11,9 +11,9 @@
         },
         "image": "https://raw.githubusercontent.com/openrails/content/main/images/TrainSimulations.net/BNSF_starter_route.jpg",
         "screenshot": "https://www.trainsimulations.net/starter",
-        "url": "https://files.trainsimulations.net/TS_STARTER_ROUTE.zip",
-        "downloadSize": 428811336,
-        "installSize": 521159055
+        "url": "https://ts-files.com/files/TS_STARTER_ROUTE.zip",
+        "downloadSize": 598168814,
+        "installSize": 894345725
     },
     {
         "@type": "https://schema.org/SoftwareApplication",
@@ -23,11 +23,11 @@
         "author": {
             "@type": "https://schema.org/Person",
             "name": "Peter Newell",
-            "url": "http://coalstonewcastle.com.au"
+            "url": "https://coalstonewcastle.com.au"
         },
-        "image": "http://www.burrinjuck.coalstonewcastle.com.au/screenshots/images/001-image.jpg",
-        "screenshot": "http://www.burrinjuck.coalstonewcastle.com.au/screenshots/",
-        "url": "http://www.burrinjuck.coalstonewcastle.com.au/",
+        "image": "https://www.burrinjuck.coalstonewcastle.com.au/screenshots/images/001-image.jpg",
+        "screenshot": "https://www.burrinjuck.coalstonewcastle.com.au/screenshots/",
+        "url": "https://www.burrinjuck.coalstonewcastle.com.au/",
         "downloadSize": 136713223
     },
     {
