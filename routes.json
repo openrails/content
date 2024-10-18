@@ -14,7 +14,7 @@
         "url": "https://ts-files.com/files/TS_STARTER_ROUTE.zip",
         "downloadSize": 598168814,
         "installSize": 894345725,
-		"start": {
+		    "start": {
             "route": "BNSF Scenic Sub",
             "activity": "1. What Goes Up...",
             "locomotive": "BNSF C44-9W 4870",
@@ -24,7 +24,7 @@
             "time": "12:00",
             "season": "Winter",
             "weather": "Snow"
-		}
+		    }
     },
     {
         "@type": "https://schema.org/SoftwareApplication",
