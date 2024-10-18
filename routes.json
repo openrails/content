@@ -11,9 +11,20 @@
         },
         "image": "https://raw.githubusercontent.com/openrails/content/main/images/TrainSimulations.net/BNSF_starter_route.jpg",
         "screenshot": "https://www.trainsimulations.net/starter",
-        "url": "https://files.trainsimulations.net/TS_STARTER_ROUTE.zip",
-        "downloadSize": 428811336,
-        "installSize": 521159055
+        "url": "https://ts-files.com/files/TS_STARTER_ROUTE.zip",
+        "downloadSize": 598168814,
+        "installSize": 894345725,
+		"start": {
+            "route": "BNSF Scenic Sub",
+            "activity": "1. What Goes Up...",
+            "locomotive": "BNSF C44-9W 4870",
+            "consist": "BNSF Intermodal (60 cars)",
+            "startingat": "Skykomish",
+            "headingto": "Berne",
+            "time": "12:00",
+            "season": "Winter",
+            "weather": "Snow"
+		}
     },
     {
         "@type": "https://schema.org/SoftwareApplication",
@@ -23,11 +34,11 @@
         "author": {
             "@type": "https://schema.org/Person",
             "name": "Peter Newell",
-            "url": "http://coalstonewcastle.com.au"
+            "url": "https://coalstonewcastle.com.au"
         },
-        "image": "http://www.burrinjuck.coalstonewcastle.com.au/screenshots/images/001-image.jpg",
-        "screenshot": "http://www.burrinjuck.coalstonewcastle.com.au/screenshots/",
-        "url": "http://www.burrinjuck.coalstonewcastle.com.au/",
+        "image": "https://www.burrinjuck.coalstonewcastle.com.au/screenshots/images/001-image.jpg",
+        "screenshot": "https://www.burrinjuck.coalstonewcastle.com.au/screenshots/",
+        "url": "https://www.burrinjuck.coalstonewcastle.com.au/",
         "downloadSize": 136713223
     },
     {
@@ -91,7 +102,7 @@
         "installSize": 311382016,
         "start": {
             "route": "Scottish Capital Express",
-            "activity": "+ Explore in Activity Mode +",
+            "activity": "0930 Edinburgh-Glasgow Queen Street",
             "locomotive": "MT Class 27 27102 BR Blue",
             "consist": "MT Class 27 102 & 6 mk2 PP",
             "startingat": "Edinburgh",
