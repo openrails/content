@@ -15,15 +15,8 @@
         "downloadSize": 598168814,
         "installSize": 894345725,
 		    "start": {
-            "route": "BNSF Scenic Sub",
-            "activity": "1. What Goes Up...",
-            "locomotive": "BNSF C44-9W 4870",
-            "consist": "BNSF Intermodal (60 cars)",
-            "startingat": "Skykomish",
-            "headingto": "Berne",
-            "time": "12:00",
-            "season": "Winter",
-            "weather": "Snow"
+                "route": "BNSF Scenic Sub",
+                "activity": "1. What Goes Up..."
 		    }
     },
     {
@@ -102,14 +95,7 @@
         "installSize": 311382016,
         "start": {
             "route": "Scottish Capital Express",
-            "activity": "0930 Edinburgh-Glasgow Queen Street",
-            "locomotive": "MT Class 27 27102 BR Blue",
-            "consist": "MT Class 27 102 & 6 mk2 PP",
-            "startingat": "Edinburgh",
-            "headingto": "Glasgow",
-            "time": "12:00",
-            "season": "Summer",
-            "weather": "Clear"
+            "activity": "0930 Edinburgh-Glasgow Queen Street"
         }
     },
     {
