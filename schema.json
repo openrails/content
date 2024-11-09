@@ -80,23 +80,11 @@
             },
             "start": {
                 "type": "object",
-                "required": [
-                    "route",
-                    "activity",
-                    "locomotive",
-                    "consist",
-                    "startingat",
-                    "headingto",
-                    "time",
-                    "season",
-                    "weather"
-                ],
-                "additionalProperties": false,
                 "properties": {
                     "route": {
                         "type": "string"
                     },
-                    "actvity": {
+                    "activity": {
                         "type": "string"
                     },                    
                     "locomotive": {
@@ -105,10 +93,10 @@
                     "consist": {
                         "type": "string"
                     },                      
-                    "startingat": {
+                    "startingAt": {
                         "type": "string"
                     },                      
-                    "headingto": {
+                    "headingTo": {
                         "type": "string"
                     },                      
                     "time": {
@@ -119,8 +107,13 @@
                     },
                     "weather": {
                         "type": "string"
-                    }                     
-                }
+                    }
+                },                   
+                "additionalProperties": false,
+                "required": [
+                    "route",
+                    "activity"
+                ]
             }
         }
     }

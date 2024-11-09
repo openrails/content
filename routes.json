@@ -13,7 +13,11 @@
         "screenshot": "https://www.trainsimulations.net/starter",
         "url": "https://ts-files.com/files/TS_STARTER_ROUTE.zip",
         "downloadSize": 598168814,
-        "installSize": 894345725
+        "installSize": 894345725,
+		    "start": {
+                "route": "BNSF Scenic Sub",
+                "activity": "1. What Goes Up..."
+		    }
     },
     {
         "@type": "https://schema.org/SoftwareApplication",
@@ -91,14 +95,7 @@
         "installSize": 311382016,
         "start": {
             "route": "Scottish Capital Express",
-            "activity": "+ Explore in Activity Mode +",
-            "locomotive": "MT Class 27 27102 BR Blue",
-            "consist": "MT Class 27 102 & 6 mk2 PP",
-            "startingat": "Edinburgh",
-            "headingto": "Glasgow",
-            "time": "12:00",
-            "season": "Summer",
-            "weather": "Clear"
+            "activity": "0930 Edinburgh-Glasgow Queen Street"
         }
     },
     {
