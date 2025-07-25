@@ -95,7 +95,14 @@
         "installSize": 311382016,
         "start": {
             "route": "Scottish Capital Express",
-            "activity": "0930 Edinburgh-Glasgow Queen Street"
+            "activity": "- Explore Route -",
+            "locomotive": "MT Class 47706 BR Blue",
+            "consist": "MT_MT_Class 47 & 6 mk2 PP",
+            "startingat": "Edingburgh",
+            "headingto": "Glasgow",
+            "time": "12:00",
+            "season": "Summer",
+            "weather": "Clear"
         }
     },
     {
