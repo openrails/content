@@ -91,8 +91,8 @@
     },
     "image": "https://www.openrails.org/assets/waverley.jpg",
     "url": "https://static.openrails.org/files/DemoModel1.zip",
-    "downloadSize": 272424960,
-    "installSize": 336539648,
+    "downloadSize": 272422379,
+    "installSize": 329994809,
     "start": {
       "route": "Scottish Capital Express",
       "activity": "- Explore Route -",
