@@ -80,31 +80,31 @@
         "screenshot": "http://www.craven.coalstonewcastle.com.au/screenshots/",
         "url": "http://www.craven.coalstonewcastle.com.au/"
     },
-    {
-        "@type": "https://schema.org/SoftwareApplication",
-        "compensation": "free",
-        "name": "Demo Model 1",
-        "description": "Demo Model 1 is a great route to get started with Open Rails. It models the Scottish Capital Express during the 'blue' period of British Rail. Your service is a morning express from Edinburgh Waverley as far as the town of Linlithgow, about 20 minutes running. Generously donated by Making Tracks Ltd, Demo Model 1 was cut down from a full-size commercial route and contains lots of detail. Installation instructions are included. ",
-        "author": {
-            "@type": "https://schema.org/Organization",
-            "name": "Making Tracks Ltd"
-        },
-        "image": "https://www.openrails.org/assets/waverley.jpg",
-        "url": "https://static.openrails.org/files/DemoModel1.zip",
-        "downloadSize": 253648896,
-        "installSize": 311382016,
-        "start": {
-            "route": "Scottish Capital Express",
-            "activity": "- Explore Route -",
-            "locomotive": "MT Class 47706 BR Blue",
-            "consist": "MT_MT_Class 47 & 6 mk2 PP",
-            "startingat": "Edingburgh",
-            "headingto": "Glasgow",
-            "time": "12:00",
-            "season": "Summer",
-            "weather": "Clear"
-        }
+  {
+    "@type": "https://schema.org/SoftwareApplication",
+    "compensation": "free",
+    "name": "Demo Model 1",
+    "description": "Demo Model 1 is a great route to get started with Open Rails. It models the Scottish Capital Express during the 'blue' period of British Rail. Your service is a morning express from Edinburgh Waverley as far as the town of Linlithgow, about 20 minutes running. Generously donated by Making Tracks Ltd, Demo Model 1 was cut down from a full-size commercial route and contains lots of detail. Installation instructions are included. ",
+    "author": {
+      "@type": "https://schema.org/Organization",
+      "name": "Making Tracks Ltd"
     },
+    "image": "https://www.openrails.org/assets/waverley.jpg",
+    "url": "https://static.openrails.org/files/DemoModel1.zip",
+    "downloadSize": 272422379,
+    "installSize": 329994809,
+    "start": {
+      "route": "Scottish Capital Express",
+      "activity": "- Explore Route -",
+      "locomotive": "MT Class 47706 BR Blue",
+      "consist": "MT_MT_Class 47 & 6 mk2 PP",
+      "startingat": "Edingburgh",
+      "headingto": "Glasgow",
+      "time": "12:00",
+      "season": "Summer",
+      "weather": "Clear"
+    }
+  },
     {
         "@type": "https://schema.org/SoftwareApplication",
         "compensation": "free",
