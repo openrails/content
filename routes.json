@@ -51,6 +51,30 @@
     {
       "@type": "https://schema.org/SoftwareApplication",
       "compensation": "free",
+      "name": "Cascais Route",
+      "description": "The Cascais Route, inaugurated in 1889 and electrified in 1926, connects Lisbon to Cascais over approximately 25 km, following the northern bank of the Tagus estuary and the Atlantic coastline. This route is depicted as it was in 2001, crossing the municipalities of Lisbon, Oeiras and Cascais, running through urban landscapes, residential areas and locations with a long-standing seaside tradition as well as a wealth of landmarks. The route provides all the modern rolling stock necessary for the operation of timetables, and also the old GE locomotives and Belgian trainsets from 1926.",
+      "author": {
+        "@type": "https://schema.org/Person",
+        "name": "CPVirtual team"
+      },
+      "image": "https://github.com/cpvirtual/OR_CPV_Cascais/raw/main/cascais.jpg",
+      "url": "https://github.com/cpvirtual/OR_CPV_Cascais.git",
+      "installSize": 2024092533,
+      "start": {
+        "route": "Linha de Cascais",
+        "activity": "+ Explore in Activity Mode +",
+        "locomotive": "CP 3158 Sorefame-Alsthom",
+        "consist": "CP3158+3250",
+        "startingAt": "Cais do Sodre 3",
+        "headingTo": "Cascais 2",
+        "time": "12:00",
+        "season": "Summer",
+        "weather": "Clear"
+      }
+    },    
+    {
+      "@type": "https://schema.org/SoftwareApplication",
+      "compensation": "free",
       "name": "Chiltern",
       "description": "This route, set c.1960 in UK, includes two main and many branch lines that run through the Chiltern Hills to London as well as parts of the London Transport underground system. Also included, somewhat anachronistically, is the Shepherds Bush to Uxbridge tram route. This route is a work in progress and scenery is still being added. At the moment scenery is complete between Marylebone Station and Banbury.",
       "author": {
@@ -123,21 +147,6 @@
     {
       "@type": "https://schema.org/SoftwareApplication",
       "compensation": "free",
-      "name": "Manning River Breakwall Railway",
-      "description": "The Manning River Breakwater railway was built in 1895 to transport rock from a quarry at Crowdy Head to the entrance of the river at Harrington. Powered by a Baldwin Steam Tram motor, approximately 600,000 tons of rock was transported over time from the quarry to Harrington.  Operation of this route was relatively simple as it was fairly flat with a single locomotive, so that signalling was not required.",
-      "author": {
-        "@type": "https://schema.org/Person",
-        "name": "Peter Newell",
-        "url": "http://coalstonewcastle.com.au"
-      },
-      "image": "http://www.manning-river.coalstonewcastle.com.au/screenshots/images/002-image.jpg",
-      "screenshot": "http://www.manning-river.coalstonewcastle.com.au/screenshots/",
-      "url": "http://www.manning-river.coalstonewcastle.com.au/",
-      "downloadSize": 74799426
-    },
-    {
-      "@type": "https://schema.org/SoftwareApplication",
-      "compensation": "free",
       "name": "Long Island Railroad",
       "description": "The Long Island Rail Road (LIRR) as it existed in 1945 to 1955. Years of effort and countless custom scenery objects have gone into the creation of these seven branches spanning almost 500 miles. Over 20 activities are included along with some basic rolling stock. Trainsim.com offers many loco repaints by Vince and his friends and also a package of five freight switching activities (File ID 86506).",
       "author": {
@@ -151,6 +160,21 @@
         "route": "LIRR BETA V 0.0.8",
         "activity": "04. CENTRAL PICKUPS"
       }
+    },    
+    {
+      "@type": "https://schema.org/SoftwareApplication",
+      "compensation": "free",
+      "name": "Manning River Breakwall Railway",
+      "description": "The Manning River Breakwater railway was built in 1895 to transport rock from a quarry at Crowdy Head to the entrance of the river at Harrington. Powered by a Baldwin Steam Tram motor, approximately 600,000 tons of rock was transported over time from the quarry to Harrington.  Operation of this route was relatively simple as it was fairly flat with a single locomotive, so that signalling was not required.",
+      "author": {
+        "@type": "https://schema.org/Person",
+        "name": "Peter Newell",
+        "url": "http://coalstonewcastle.com.au"
+      },
+      "image": "http://www.manning-river.coalstonewcastle.com.au/screenshots/images/002-image.jpg",
+      "screenshot": "http://www.manning-river.coalstonewcastle.com.au/screenshots/",
+      "url": "http://www.manning-river.coalstonewcastle.com.au/",
+      "downloadSize": 74799426
     },
     {
       "@type": "https://schema.org/SoftwareApplication",
